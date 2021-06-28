@@ -1,5 +1,5 @@
-import React from 'react';
-import './App.css';
+import React from 'react'
+import './App.css'
 import Tasks from './components/Tasks/Tasks'
 
 const App = () => {
@@ -7,7 +7,7 @@ const App = () => {
     <div className="App">
       <Tasks />
     </div>
-  );
-};
+  )
+}
 
-export default App;
+export default App
